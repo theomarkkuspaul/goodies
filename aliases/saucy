@@ -1,0 +1,1 @@
+alias saucy="echo 'Resetting Zsh config' && source ~/.zshrc"
